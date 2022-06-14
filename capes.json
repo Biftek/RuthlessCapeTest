@@ -1,8 +1,6 @@
 [
-            {
-                "uuid": "zBeefTacos",
-                "cape-link": "test.png"
-                
-            }
-            
-        ]
+   {
+      "uuid":"zBeefTacos",
+      "cape-link":"test.png"
+   }
+]
